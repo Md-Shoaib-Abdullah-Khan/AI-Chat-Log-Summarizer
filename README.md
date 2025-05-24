@@ -1,4 +1,3 @@
-```markdown
 # 🧠 AI Chat Log Summarizer
 
 This is a Python-based project that summarizes chat logs between a **User** and an **AI assistant**. It performs basic NLP tasks such as message parsing, keyword extraction, and conversational topic inference using **LLM via LangChain + Ollama (Gemma3)**.
@@ -104,11 +103,3 @@ Summary:
 - Nature of conversation: The discussion centers around AI and Python's application in data and machine learning.
 ```
 
----
-
-
----
-
-`````
-
-`````
