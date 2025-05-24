@@ -1,5 +1,3 @@
-## 📄 README.md
-
 ```markdown
 # 🧠 AI Chat Log Summarizer
 
@@ -54,7 +52,7 @@ AI: Web development, AI, data science, and more.
 
 ```bash
 git clone https://github.com/Md-Shoaib-Abdullah-Khan/AI-Chat-Log-Summarizer.git
-cd ai-chat-log-summarizer
+cd AI-Chat-Log-Summarizer
 ````
 
 2. Create and activate a virtual environment (optional but recommended):
@@ -108,13 +106,9 @@ Summary:
 
 ---
 
-## Powered By
-
-* Python 
-* LangChain 
-* Ollama 
-* Gemma3 LLM 
-* NLTK for keyword extraction
 
 ---
 
+`````
+
+`````
