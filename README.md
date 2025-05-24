@@ -20,13 +20,13 @@ This is a Python-based project that summarizes chat logs between a **User** and 
 
 ai-chat-log-summarizer/
 │
-├── chats/                 # Folder for .txt chat files
+├── chats/                           # Folder for .txt chat files
 │   ├── chat1.txt
 │   └── chat2.txt
 │
-├── chat\_summarizer.py     # Main summarizer script
-├── requirements.txt        # Python dependencies
-└── README.md               # This file
+├── AI Chat Log Summarizer.ipynb     # Main summarizer script
+├── requirements.txt                 # Python dependencies
+└── README.md                        # This file
 
 ```
 
@@ -85,11 +85,7 @@ ollama pull gemma3
 
 1. Put your `.txt` chat logs inside the `chats/` folder.
 
-2. Run the summarizer:
-
-```bash
-python chat_summarizer.py
-```
+2. Run the python notebook.
 
 3. Sample output:
 
